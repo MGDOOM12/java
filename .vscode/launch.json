@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.Main",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "name": "Run with argument",
+      "type": "python",
+      "request": "launch",
+      "program": "first_py_program",
+      "console": "integratedTerminal",
+      "args": ["Kale"]
+    }
+  ]
+}

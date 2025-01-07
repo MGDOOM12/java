@@ -1,8 +1,8 @@
 # java
 
-## 1. Introduction
+## Introduction
 
-## High Level vs Low Level Language
+### High Level vs Low Level Language
 - High level code is made for humans to understand 
 - Low level code is for computers to understand
 - Source code (low) is converted to object/machine code (binary) for computers
@@ -13,10 +13,9 @@
 - **JVM** will conver btye code to machine code.
     - Where can a JVM be found in a JDK.
 
-## JDK
- - Java Developer Kit
-    Developer Tools
-    - Java Runtime Env
-        Libraries & toolkits
-        - Java Virtual Machine
-            Runs Java programs
+## Java Developer Kit (JDK)
+ - Java Developer Kit - Developer Tools
+    - Java Runtime Env - Libraries & toolkits
+        - Java Virtual Machine - Runs Java programs
+
+    
