@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UserInput",
+      "request": "launch",
+      "mainClass": "src.UserInput",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
+      "name": "VarSwap",
+      "request": "launch",
+      "mainClass": "src.VarSwap",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "src.Main",
