@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindWidth",
+      "request": "launch",
+      "mainClass": "src.FindWidth",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "UserInput",
       "request": "launch",
       "mainClass": "src.UserInput",
