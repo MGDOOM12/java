@@ -1,7 +1,7 @@
 package src;
 import java.util.Scanner;
 
-public class FindWidth {
+public class FindArea {
 
     public static void main(String[] args) {
         double width = 0;
