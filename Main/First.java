@@ -1,5 +1,5 @@
-package src;
-public class Main {
+package Main;
+public class First {
 
     // Main method that is required for all programs to run 
     public static void main(String[] args){

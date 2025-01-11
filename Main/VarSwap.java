@@ -1,4 +1,4 @@
-package src;
+package Main;
 public class VarSwap {
 
     public static void main(String[] args) {
