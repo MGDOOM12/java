@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ifStatements",
+      "request": "launch",
+      "mainClass": "src.ifStatements",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "PrintF",
       "request": "launch",
       "mainClass": "src.PrintF",
