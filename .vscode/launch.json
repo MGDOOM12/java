@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Substrings",
+      "request": "launch",
+      "mainClass": "Main.Substrings",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "StringMethods",
       "request": "launch",
       "mainClass": "Main.StringMethods",
