@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Main.Switch",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "ternary",
       "request": "launch",
       "mainClass": "Main.ternary",
