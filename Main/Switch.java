@@ -8,7 +8,7 @@ public class Switch {
         // Enhanced switch = replacement to many else if statements
         Scanner scanner = new Scanner(System.in);
 
-        String day;
+        String day; 
 
         System.out.print("What day is it? ");
         day = scanner.nextLine().toLowerCase();
