@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraysTest",
+      "request": "launch",
+      "mainClass": "Main.ArraysTest",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Main.Arrays",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "OverloadedMethods",
       "request": "launch",
       "mainClass": "Main.OverloadedMethods",
