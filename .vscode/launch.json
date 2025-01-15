@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Methods",
+      "request": "launch",
+      "mainClass": "Main.Methods",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "BreakContinue",
       "request": "launch",
       "mainClass": "Main.BreakContinue",
