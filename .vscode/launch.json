@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SearchArray",
+      "request": "launch",
+      "mainClass": "Main.SearchArray",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "UserInputArray",
       "request": "launch",
       "mainClass": "Main.UserInputArray",
