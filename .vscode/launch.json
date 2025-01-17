@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Varargs",
+      "request": "launch",
+      "mainClass": "Main.Varargs",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "SearchArray",
       "request": "launch",
       "mainClass": "Main.SearchArray",
