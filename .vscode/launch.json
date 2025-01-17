@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OOP",
+      "request": "launch",
+      "mainClass": "Main.OOP",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "TwoDArray",
       "request": "launch",
       "mainClass": "Main.TwoDArray",
