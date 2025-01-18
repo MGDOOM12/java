@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayOfObjects",
+      "request": "launch",
+      "mainClass": "Main.ArrayOfObjects",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "OverloadedConstructors",
       "request": "launch",
       "mainClass": "Main.OverloadedConstructors",
