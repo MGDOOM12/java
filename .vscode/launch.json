@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Main.Inheritance",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "StaticKeyword",
       "request": "launch",
       "mainClass": "Main.StaticKeyword",
