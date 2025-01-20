@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TwoString",
+      "request": "launch",
+      "mainClass": "Main.TwoString",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "MethodOverriding",
       "request": "launch",
       "mainClass": "Main.MethodOverriding",

@@ -2,11 +2,25 @@ package Main;
 
 public class Car {
 
-    String make = "Toyota";
-    String model = "Camry";
-    int year = 2025;
-    double price = 30000.00;
-    boolean isRunning = false;
+    String make ;
+    String model;
+    int year;
+    double price;
+    boolean isRunning;
+    String color;
+
+    Car(String make, String model, int year, String color){
+        this.make = make;
+        this.model = model;
+        this.year = year;
+        this.color = color;
+
+    }
+
+    @Override
+    public String toString(){
+        return this.color + " " + this.year + " " + this.make + " " + this.model;
+    }
 
     void start(){
         isRunning = true;
