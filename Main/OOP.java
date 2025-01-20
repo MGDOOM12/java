@@ -4,7 +4,7 @@ public class OOP {
     public static void main(String[] args) {
         // Object = An entity that holds data (attributes) and can perfomr actions(methods). It is a reference data type.
 
-        Car mycar = new Car();
+        Car mycar = new Car("Toyota", "Tacoma", 2025, "Blue");
         
         // System.out.println(mycar.model);
         // System.out.println(mycar.make);
