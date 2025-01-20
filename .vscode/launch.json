@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SuperDuper",
+      "request": "launch",
+      "mainClass": "Main.SuperDuper",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "Inheritance",
       "request": "launch",
       "mainClass": "Main.Inheritance",
