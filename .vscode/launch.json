@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MethodOverriding",
+      "request": "launch",
+      "mainClass": "Main.MethodOverriding",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "SuperDuper",
       "request": "launch",
       "mainClass": "Main.SuperDuper",
