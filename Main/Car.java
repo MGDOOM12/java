@@ -1,6 +1,6 @@
 package Main;
 
-public class Car {
+public class Car extends Vehicle{
 
     String make ;
     String model;
@@ -15,6 +15,11 @@ public class Car {
         this.year = year;
         this.color = color;
 
+    }
+
+    @Override
+    void go(){
+        System.out.println("You are driving the car");
     }
 
     @Override

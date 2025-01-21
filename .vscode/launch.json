@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PolyMorphism",
+      "request": "launch",
+      "mainClass": "Main.PolyMorphism",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "Intfaces",
       "request": "launch",
       "mainClass": "Main.Intfaces",
