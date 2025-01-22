@@ -1,6 +1,6 @@
 package Main;
 
-public class Animal extends Organism {
+public abstract class Animal extends Organism {
 
     void eat(){
         System.out.println("This animal is eating.");
@@ -9,4 +9,6 @@ public class Animal extends Organism {
     void move(){
         System.out.println("This animal is moving!");
     }
+
+    abstract void speak();
 }

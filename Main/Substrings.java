@@ -12,5 +12,6 @@ public class Substrings {
 
         System.out.println(username);
         System.out.println(domain);
+
     }
 }

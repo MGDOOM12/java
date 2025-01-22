@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RuntimePolymorphism",
+      "request": "launch",
+      "mainClass": "Main.RuntimePolymorphism",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "PolyMorphism",
       "request": "launch",
       "mainClass": "Main.PolyMorphism",
