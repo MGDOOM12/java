@@ -4,7 +4,7 @@ public class PrintF {
     public static void main(String[] args) {
         // PrintF is a method used to format an output
         // %[flags][width][.precision][sprecifier-character]
-        String name = "Kale";
+        String name = "MGDOOM";
         char firstletter = 'K';
         int age = 27;
         double height = 76.0;

@@ -272,7 +272,7 @@
       "request": "launch",
       "program": "first_py_program",
       "console": "integratedTerminal",
-      "args": ["Kale"]
+      "args": ["MG"]
     }
   ]
 }

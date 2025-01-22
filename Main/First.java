@@ -5,7 +5,7 @@ public class First {
     public static void main(String[] args){
         // System.out.print is logging data to the console
         System.out.println("\"Hello, World\"");
-        System.out.println(("My name is Kale"));
+        System.out.println(("My name is MGDOOM"));
 
         // Variables - Placeholder for a value that behaves as the value it contains
         /* Data types
@@ -39,7 +39,7 @@ public class First {
         double z = 3.14;
         boolean a = true;
         char symbol = '@';
-        String name = "Kale";
+        String name = "MGDOOM";
 
         System.out.println(x);
         System.out.println("My number is: " +little);

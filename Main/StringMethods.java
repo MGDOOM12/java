@@ -3,8 +3,8 @@ package Main;
 public class StringMethods {
     public static void main(String[] args) {
         
-        String name = "Kale Leach";
-        String secondName = "    Clarissa Camarena    ";
+        String name = "MGDOOM DOOM";
+        String secondName = "    Thee Unknown    ";
         int length = name.length();
         char letter = name.charAt(0);
         int index = name.indexOf("a");
@@ -23,7 +23,7 @@ public class StringMethods {
         System.out.println(name);
         System.out.println(secondName);
         System.out.println(name.isEmpty());
-        System.out.println(name.equals("Kale Leach"));
+        System.out.println(name.equals("MGDOOM DOOM"));
         
          
 

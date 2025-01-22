@@ -3,7 +3,7 @@ package Main;
 public class Methods {
     public static void main(String[] args) {
         // methods = a block of reusable code that is executed when called ()
-        String name = "Kale";
+        String name = "MGDOOM";
         int age = 27;
 
         // happyBirthday(name, age);
