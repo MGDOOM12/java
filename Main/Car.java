@@ -2,18 +2,19 @@ package Main;
 
 public class Car extends Vehicle{
 
-    String make ;
-    String model;
-    int year;
-    double price;
-    boolean isRunning;
-    String color;
+    private final String make ;
+    private String model;
+    private int year;
+    private double price;
+    private boolean isRunning;
+    private String color;
 
-    Car(String make, String model, int year, String color){
+    Car(String make, String model, int year, String color, int price){
         this.make = make;
         this.model = model;
         this.year = year;
         this.color = color;
+        this.price = price;
 
     }
 
@@ -24,7 +25,7 @@ public class Car extends Vehicle{
 
     @Override
     public String toString(){
-        return this.color + " " + this.year + " " + this.make + " " + this.model;
+        return this.color + " " + this.year + " " + this.make + " " + this.model + " " + this.price;
     }
 
     void start(){
@@ -37,4 +38,29 @@ public class Car extends Vehicle{
         isRunning = false;
         System.out.println("You stopped the engine");
     }
+
+    String getModel(){
+        return this.model;
+    }
+
+    String getMake(){
+        return this.make;
+    }
+
+    int getYear(){
+        return this.year;
+    }
+
+    String getColor(){
+        return this.color;
+    }
+
+    void setColor(String color){
+        this.color = color;
+    }
+
+    void setPrice(int price){
+        this.price = price;
+    }
+
 }
