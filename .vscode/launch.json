@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Aggregation",
+      "request": "launch",
+      "mainClass": "Main.Aggregation",
+      "projectName": "Java_5a727e1c"
+    },
+    {
+      "type": "java",
       "name": "GetterSetter",
       "request": "launch",
       "mainClass": "Main.GetterSetter",
