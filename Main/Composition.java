@@ -9,5 +9,7 @@ public class Composition {
 
         System.out.println(car.engine.type);
         car.engine.start();
+
+        
     }
 }
