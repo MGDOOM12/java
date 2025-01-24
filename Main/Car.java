@@ -8,13 +8,15 @@ public class Car extends Vehicle{
     private double price;
     private boolean isRunning;
     private String color;
+    Engine engine;
 
-    Car(String make, String model, int year, String color, int price){
+    Car(String make, String model, int year, String color, int price, String engineType){
         this.make = make;
         this.model = model;
         this.year = year;
         this.color = color;
         this.price = price;
+        this.engine = new Engine(engineType);
 
     }
 
